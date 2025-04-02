@@ -8,7 +8,7 @@ AIFlowCraft is a modular and interactive AI-powered system that enables the gene
 ## 🚀 Features
 
 - **Human-AI Hybrid Workflow**: Choose AI or manual review per stage (User Stories, Design, Code, Review, QA).
-- **LangGraph-based Execution**: Modular nodes with pause-resume logic and rejection rerouting.
+- **LangGraph-like Execution**: Modular nodes with pause-resume logic and rejection rerouting.
 - **Live Logging**: Real-time log streaming and consolidated logs for full traceability.
 - **Feedback Loop**: Captures user feedback and injects it into AI generation.
 - **Reference-aware Generation**: Uses uploaded SQLite database content and file inputs for grounded generation.
@@ -67,7 +67,6 @@ AIFlowCraft/
 - Python 3.10+
 - Streamlit
 - LangChain
-- LangGraph
 - Groq SDK
 - PyPDF2, docx2txt (for file parsing)
 - GitPython / requests (for GitHub interaction)
