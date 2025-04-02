@@ -25,6 +25,7 @@ Reviewer Feedback (if any):
 
 If feedback is provided, you MUST revise your review feedback accordingly.
 
+write test cases based on the {code} so that its clear on the UAT as well.
 
 Please analyze:
 - Code quality (structure, readability, performance)
