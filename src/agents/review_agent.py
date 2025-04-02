@@ -35,6 +35,8 @@ Please analyze:
 
 Provide a structured review.
 
+write test cases based on the {code} so that its clear on the UAT as well.
+
 Always end your response with the following plain text (no markdown):
 
 Decision: APPROVED or REJECTED  
